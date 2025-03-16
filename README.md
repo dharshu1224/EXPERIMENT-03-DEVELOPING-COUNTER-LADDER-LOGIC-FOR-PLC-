@@ -1,8 +1,8 @@
 # EXPERIMENT-03-DEVELOPING-COUNTER-LADDER-LOGIC-FOR-PLC-
-## NAME:
-## REGISTER NUMBER:
-## DEPARTMENT:
-## YEAR:
+## NAME:Dharshini.S
+## REGISTER NUMBER:212224230061
+## DEPARTMENT:AI&DS
+## YEAR:1ST YEAR 
 
 ### Aim:
 To understand and implement various counter operations in Programmable Logic Controller (PLC) ladder logic.
@@ -67,7 +67,23 @@ Down Counter (CTD): The output should activate when the count reaches zero.
 Up/Down Counter (CTUD): The output should activate when the count reaches the preset value or zero, depending on the inputs.
 
 ### Simulation Screenshots:
-(Add screenshots of the ladder logic and counter operations in the simulation software.)
+COUNTER UP:
+![WhatsApp Image 2025-03-16 at 16 18 22_0951aa45](https://github.com/user-attachments/assets/b2e80308-9350-41b9-9008-5b060c7aaab5)
+
+COUNTER DOWN:
+![WhatsApp Image 2025-03-16 at 16 18 39_067b4a91](https://github.com/user-attachments/assets/c108f908-8fb4-4833-b870-37c9848cbbbf)
+
+PROBLEM STATEMENT:
+Device a PLC lader logic that can read data from two sensors providing the counting operation starting from 0 to 10 and switch on convirment reaching the packet station and seal the packet after 5sec of delay.
+
+
+ COUNTER UP:
+ ![problem counter up ](https://github.com/user-attachments/assets/799c80cf-4805-48c6-8c31-7836cbd77c55)
+
+COUNTER DOWN:
+![WhatsApp Image 2025-03-16 at 16 23 50_edd16918](https://github.com/user-attachments/assets/8becf33a-97bb-4702-b80c-eb69008bf663)
 
 ### Results:
 The ladder logic programs for Up Counter (CTU), Down Counter (CTD), and Up/Down Counter (CTUD) were successfully implemented and tested. The outputs behaved as expected, indicating correct counting operations. The experiment demonstrated how counters are essential in automation for counting events and managing process sequences.
+
+
